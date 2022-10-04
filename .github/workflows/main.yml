@@ -1,5 +1,4 @@
 name: build_deploy_aks
-TAG: 0.0.0
 on:
   push:
     paths:
